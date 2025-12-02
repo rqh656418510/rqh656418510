@@ -7,6 +7,6 @@
 <p align="center">
 <a href="https://github.com/rqh656418510">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rqh656418510&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rqh656418510&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rqh656418510&layout=compact&langs_count=8&hide=html,css"/>
 </a>
 </p>
