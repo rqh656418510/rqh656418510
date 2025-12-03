@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning web dev stuff
+- 🌱 I'm learning both web development and C++ at the moment.
 - 📫 Reach my with email: rong656418510@gmail.com
 - 🏙  Visit my [blog](https://rqh656418510.github.io/)
 
