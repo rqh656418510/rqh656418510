@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I'm learning both web development and C++ at the moment.
-- 📫 Reach my with email: rong656418510@gmail.com
-- 🏙  Visit my [blog](https://rqh656418510.github.io/)
+- 🌱 I'm currently working in web development while continuing to deepen my expertise in C++.
+- 📫 Reach me via email: rong656418510@gmail.com
+- 🏙 Visit my [blog](https://rqh656418510.github.io/)
 
 <p align="center">
 <a href="https://github.com/rqh656418510">
