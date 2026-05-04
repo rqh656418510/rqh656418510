@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/rqh656418510">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rqh656418510&show_icons=true&hide_title=true&hide_border=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqh656418510&layout=compact&langs_count=8&hide=html,css&hide_border=true" />
+    <img width='30%' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rqh656418510&theme=default" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqh656418510&layout=compact&langs_count=8&hide=html,css&hide_border=true" />
   </a>
 </p>
