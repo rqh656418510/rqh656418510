@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently working in web development while continuing to deepen my expertise in C++.
+- 🌱 I'm currently working in backend development while continuing to deepen my expertise in C++.
 - 🧠 Interested in distributed systems, performance optimization, and AI programming.
 - 🏙 Personal blog: https://rqh656418510.github.io/
 - 📫 Email: rong656418510@gmail.com
